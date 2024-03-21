@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tasty_fire/static/css/main.844c47be.css",
-    "main.js": "/tasty_fire/static/js/main.76b9655b.js",
+    "main.js": "/tasty_fire/static/js/main.9cfe39b9.js",
     "static/js/592.5612853d.chunk.js": "/tasty_fire/static/js/592.5612853d.chunk.js",
     "static/media/total_kit_cropped.jpg": "/tasty_fire/static/media/total_kit_cropped.6e09ee59b1f24b14da9a.jpg",
     "static/media/emile.webp": "/tasty_fire/static/media/emile.e4a9b25a23a1fd0cce65.webp",
@@ -35,11 +35,11 @@
     "static/media/logo.svg": "/tasty_fire/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tasty_fire/index.html",
     "main.844c47be.css.map": "/tasty_fire/static/css/main.844c47be.css.map",
-    "main.76b9655b.js.map": "/tasty_fire/static/js/main.76b9655b.js.map",
+    "main.9cfe39b9.js.map": "/tasty_fire/static/js/main.9cfe39b9.js.map",
     "592.5612853d.chunk.js.map": "/tasty_fire/static/js/592.5612853d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.844c47be.css",
-    "static/js/main.76b9655b.js"
+    "static/js/main.9cfe39b9.js"
   ]
 }
