@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tasty_fire/static/css/main.844c47be.css",
-    "main.js": "/tasty_fire/static/js/main.a93d0c91.js",
+    "main.js": "/tasty_fire/static/js/main.2f5ae8fb.js",
     "static/js/592.5612853d.chunk.js": "/tasty_fire/static/js/592.5612853d.chunk.js",
     "static/media/total_kit_cropped.jpg": "/tasty_fire/static/media/total_kit_cropped.6e09ee59b1f24b14da9a.jpg",
     "static/media/emile.webp": "/tasty_fire/static/media/emile.e4a9b25a23a1fd0cce65.webp",
@@ -32,18 +32,18 @@
     "static/media/tf_ring_logo.png": "/tasty_fire/static/media/tf_ring_logo.503ce00726d215324d86.png",
     "static/media/tf_logo_w_ring.png": "/tasty_fire/static/media/tf_logo_w_ring.d6cd984c5c44f6c53382.png",
     "static/media/weather.png": "/tasty_fire/static/media/weather.b0536249dc3cecf7b4fd.png",
-    "static/media/louise_cropped.jpg": "/tasty_fire/static/media/louise_cropped.f0a47bd896ffdb23f852.jpg",
     "static/media/bbq.png": "/tasty_fire/static/media/bbq.40c1f06588aeb5cbbe67.png",
     "static/media/louise.jpg": "/tasty_fire/static/media/louise.36d2188996cc764f3c42.jpg",
+    "static/media/louise_cropped.webp": "/tasty_fire/static/media/louise_cropped.6d0ce63842c9c33dddb1.webp",
     "static/media/linkedin_w.png": "/tasty_fire/static/media/linkedin_w.b65f513b89e02651f889.png",
     "static/media/logo.svg": "/tasty_fire/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tasty_fire/index.html",
     "main.844c47be.css.map": "/tasty_fire/static/css/main.844c47be.css.map",
-    "main.a93d0c91.js.map": "/tasty_fire/static/js/main.a93d0c91.js.map",
+    "main.2f5ae8fb.js.map": "/tasty_fire/static/js/main.2f5ae8fb.js.map",
     "592.5612853d.chunk.js.map": "/tasty_fire/static/js/592.5612853d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.844c47be.css",
-    "static/js/main.a93d0c91.js"
+    "static/js/main.2f5ae8fb.js"
   ]
 }
